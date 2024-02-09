@@ -1,0 +1,27 @@
+.main{
+    width: 700px;
+    height: 800px;
+    margin: 0px auto;
+}
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color: rgb(200, 200, 200);
+    border: 1px solid black;
+    font-weight: bold;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main h1{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+
+}
+ul{
+    font-size: 20px;
+    margin-left: 50px;
+}
